@@ -1,0 +1,24 @@
+h1{
+  font-family: Ubuntu, sans-serif;
+  font-weight: bold;
+}
+
+h2{
+  font-family: Ubuntu;
+}
+p{
+  font-family: Ubuntu Condensed, sans-serif;
+  font-size: 20px;
+}
+
+.jumbotron{
+  background-color: #F0F8FF;
+}
+
+.background_lightblue{
+  background-color: #F0F8FF;
+}
+
+.img-responsive{
+  margin: 0 auto;
+}
